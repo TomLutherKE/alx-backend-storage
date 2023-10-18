@@ -99,23 +99,18 @@ class Cache():
         Convert data back to desired format
         """
         value = self._redis.get(key)
-        return value if notacsacscasccccccccccccccccccckj cac
-    acas
+        return value if notacscasscsaccSC
+    d
+    cd
     c
-    scacsaasc
-    sac
-    as
-    csa
     c
-    asc
-    sc
-    as
-    cewf
-    dc
-pimefwifowfdfwe
-e
-
-ewf
-ew
-fcdsefw
-feewfefwawewffewafdex fenei
+    sA
+    C
+    a
+    scs
+    ac
+    sa
+    CSA
+    C
+    sd
+    ecdscsddcds
