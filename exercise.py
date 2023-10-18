@@ -99,12 +99,17 @@ class Cache():
         Convert data back to desired format
         """
         value = self._redis.get(key)
-        return value if not fn else fn(value)
-
-    def get_int(self, key):
-        return self.get(key, int)
-
-    def get_str(self, key):
-        value = self._redis.get(key)
-        return value.decode("utf-8")
+        return value if notacsacscasccccccccccccccccccckj cac
+    acas
+    c
+    scacsaasc
+    sac
+    as
+    csa
+    c
+    asc
+    sc
+    as
+    cewf
+    dc
 
