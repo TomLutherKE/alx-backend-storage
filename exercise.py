@@ -112,4 +112,10 @@ class Cache():
     as
     cewf
     dc
+pimefwifowfdfwe
+e
 
+ewf
+ew
+fcdsefw
+feewfefwawewffewafdex fenei
